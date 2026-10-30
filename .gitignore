@@ -1,0 +1,13 @@
+# .gitignore — don't leak keys or large files
+
+.env
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.pdf
+*.png
+*.jpg
+*.jpeg
